@@ -1,0 +1,14 @@
+{
+  "name": "@devim/react-scripts",
+  "version": "1.0.0",
+  "description": "Коллекция скриптов для разработки проектов на React+TS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "gleb-mikhalkov",
+  "license": "ISC"
+}
